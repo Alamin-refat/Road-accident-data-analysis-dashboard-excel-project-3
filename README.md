@@ -133,10 +133,10 @@ Road-Accident-Data-Analysis
 
 ## ▶ How to Use
 
- 1️⃣ **Download:** Download the Excel file from this repository.
- 2️⃣ **Open:** Open the file using **Microsoft Excel**.
- 3️⃣ **Interact:** Use the interactive slicers and filters to explore various accident trends.
- 4️⃣ **Analyze:** Review the dashboard to gain data-driven insights.
+1️⃣ **Download:** Download the Excel file from this repository.
+2️⃣ **Open:** Open the file using **Microsoft Excel**.
+3️⃣ **Interact:** Use the interactive slicers and filters to explore various accident trends.
+4️⃣ **Analyze:** Review the dashboard to gain data-driven insights.
 
 ---
 
