@@ -126,18 +126,19 @@ These insights can help identify key risk factors and support road safety improv
 
 ## 📁 Project Structure
 
-Road-Accident-Data-Analysis
+```
+Road-accident-data-analysis-dashboard-excel-project-3/
 │
-├── Dataset
-│   └── Road Accident Data.xlsx
+├── 📁 Dashboard/
+│   └── Road_Accident_Analysis.xlsx            # Main Excel file containing the interactive dashboard, pivot tables, and cleaned data
 │
-├── Dashboard
-│   └── Road Accident Dashboard.xlsx
+├── 📁 Screenshots/
+│   ├── Dashboard.png                          # Visual preview of the main dashboard view
+├── LICENSE                                    # MIT License file
 │
-├── Images
-│   └── Dashboard Screenshot.png
-│
-└── README.md
+└── README.md                                  # Main project documentation (overview, objectives, features, insights)
+
+```
 
 ---
 
