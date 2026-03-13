@@ -44,19 +44,17 @@ The dataset contains historical road accident records with multiple attributes r
 
 ---
 
-```
 ## 🛠 Tools & Technologies
 
 The following tools were used to complete this project:
 
-• Microsoft Excel  
-• Pivot Tables  
-• Pivot Charts  
-• Data Cleaning  
-• Data Transformation  
-• Interactive Dashboard  
-• Slicers & Filters
-```
+* Microsoft Excel
+* Pivot Tables
+* Pivot Charts
+* Data Cleaning
+* Data Transformation
+* Interactive Dashboard
+* Slicers & Filters
 
 ---
 
