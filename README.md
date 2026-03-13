@@ -1,5 +1,7 @@
 # 📊 Road Accident Data Analysis Dashboard (Excel)
 
+![Dashboard Preview](Screenshots/Dashboard.png)
+
 ![Excel](https://img.shields.io/badge/Tool-Microsoft%20Excel-green)
 ![Data Analysis](https://img.shields.io/badge/Field-Data%20Analysis-blue)
 ![Dashboard](https://img.shields.io/badge/Project-Dashboard-orange)
