@@ -1,5 +1,12 @@
 # 📊 Road Accident Data Analysis Dashboard (Excel)
 
+![Excel](https://img.shields.io/badge/Tool-Microsoft%20Excel-green)
+![Data Analysis](https://img.shields.io/badge/Field-Data%20Analysis-blue)
+![Dashboard](https://img.shields.io/badge/Project-Dashboard-orange)
+![Data Visualization](https://img.shields.io/badge/Skill-Data%20Visualization-purple)
+![GitHub repo size](https://img.shields.io/github/repo-size/Alamin-refat/Road-accident-data-analysis-dashboard-excel-project-3)
+![GitHub stars](https://img.shields.io/github/stars/Alamin-refat/Road-accident-data-analysis-dashboard-excel-project-3)
+
 ## 📌 Project Overview
 
 This project presents an **interactive Road Accident Analysis Dashboard built in Microsoft Excel** to explore accident patterns, casualty distribution, and key risk factors.
