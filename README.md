@@ -1,4 +1,4 @@
-# 📊 Road Accident Data Analysis Dashboard (Excel)
+# 🚗 Road Accident Data Analysis Dashboard (Excel)
 
 ![Dashboard Preview](Screenshots/Dashboard.png)
 
