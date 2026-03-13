@@ -133,12 +133,20 @@ Road-Accident-Data-Analysis
 
 ## ▶ How to Use
 
-1. Download the Excel file from this repository.
-2. Open it using **Microsoft Excel**.
-3. Use the interactive slicers and filters to explore accident trends.
-4. Analyze the dashboard insights.
+1️⃣ Download the Excel file from this repository.
+2️⃣ Open it using **Microsoft Excel**.
+3️⃣ Use the interactive slicers and filters to explore accident trends.
+4️⃣ Analyze the dashboard insights.
 
 ---
+
+## 🚀 Future Improvements
+
+* **Predictive Modeling:** Build a Machine Learning model using **Python (Scikit-learn)** to predict accident severity based on environmental factors.
+* **Scalable Database:** Migrate data from Excel to **SQL (PostgreSQL/SQL Server)** for better data management and faster querying.
+* **Advanced Visualization:** Transition the dashboard to **Power BI or Tableau** to leverage advanced geospatial mapping and heatmaps.
+* **Automated ETL:** Implement **Python scripts or Power Query** automation for real-time data cleaning and updates.
+* **Live Monitoring:** Integrate **APIs** to track real-time traffic and weather data for proactive safety analysis.
 
 ## 👤 Author
 
