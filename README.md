@@ -5,6 +5,7 @@
 ![Dashboard](https://img.shields.io/badge/Project-Dashboard-orange)
 ![Data Visualization](https://img.shields.io/badge/Skill-Data%20Visualization-purple)
 ![GitHub repo size](https://img.shields.io/github/repo-size/Alamin-refat/Road-accident-data-analysis-dashboard-excel-project-3)
+![License](https://img.shields.io/badge/License-MIT-yellow)
 ![GitHub stars](https://img.shields.io/github/stars/Alamin-refat/Road-accident-data-analysis-dashboard-excel-project-3)
 
 ## 📌 Project Overview
